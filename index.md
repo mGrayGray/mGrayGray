@@ -1,13 +1,18 @@
-## Welcome to GitHub Pages
+###  _**WELCOME AND BE AMAZED**_
 
-You can use the [editor on GitHub](https://github.com/mGrayGray/mGrayGray/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is gunna be the best write up blog of ALL TIME!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### WHO AM I?
 
-### Markdown
+Cyber Student / Humanitarian Security Enthusiast
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<script src="https://tryhackme.com/badge/1024724"></script>
+ = Rank  = Rooms Completed  <img style="height: 16px" src="https://assets.tryhackme.com/img/bages/target.png> = Badges Earned
 
+
+### Write-Ups
+
+## TryHackMe
 ```markdown
 Syntax highlighted code block
 
