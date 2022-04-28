@@ -8,95 +8,51 @@ Cyber Student / Human Security Enthusiast
 
 <script src="https://tryhackme.com/badge/1024724"></script>
 
-<div id="badges"><div class="noselect badge-card badge-achieved">
-                      <div class="d-flex align-items-center">
-                        <img src="https://tryhackme.com//img/badges/introtooffensivesecurity.svg" class="badge-image">
-                        <div class="badge-card-info">
-                            <div class="size-18 bold">Pentesting Principles</div>
-                            <p class="m-0 faded">Completing the 'Introduction to Pentesting' module</p>
-                        </div>
-                       </div>
-                    </div><div class="noselect badge-card badge-achieved">
-                      <div class="d-flex align-items-center">
-                        <img src="https://tryhackme.com//img/badges/webbed.svg" class="badge-image">
-                        <div class="badge-card-info">
-                            <div class="size-18 bold">Webbed</div>
-                            <p class="m-0 faded">Understands how the world wide web works</p>
-                        </div>
-                       </div>
-                    </div><div class="noselect badge-card badge-achieved">
-                      <div class="d-flex align-items-center">
-                        <img src="https://tryhackme.com//img/badges/introtowebsecurity.svg" class="badge-image">
-                        <div class="badge-card-info">
-                            <div class="size-18 bold">Intro to Web Hacking</div>
-                            <p class="m-0 faded">Completing the 'Introduction to Web Hacking' module</p>
-                        </div>
-                       </div>
-                    </div><div class="noselect badge-card badge-achieved">
-                      <div class="d-flex align-items-center">
-                        <img src="https://tryhackme.com//img/badges/burpsuite.svg" class="badge-image">
-                        <div class="badge-card-info">
-                            <div class="size-18 bold">Burp'ed</div>
-                            <p class="m-0 faded">Completing the Burp Suite module</p>
-                        </div>
-                       </div>
-                    </div><div class="noselect badge-card badge-achieved">
-                      <div class="d-flex align-items-center">
-                        <img src="https://tryhackme.com//img/badges/streak7.svg" class="badge-image">
-                        <div class="badge-card-info">
-                            <div class="size-18 bold">7 Day Streak</div>
-                            <p class="m-0 faded">Achieving a 7 day hacking streak</p>
-                        </div>
-                       </div>
-                    </div><div class="noselect badge-card badge-achieved">
-                      <div class="d-flex align-items-center">
-                        <img src="https://tryhackme.com//img/badges/linux.svg" class="badge-image">
-                        <div class="badge-card-info">
-                            <div class="size-18 bold">cat linux.txt</div>
-                            <p class="m-0 faded">Being competent in Linux</p>
-                        </div>
-                       </div>
-                    </div><div class="noselect badge-card badge-achieved">
-                      <div class="d-flex align-items-center">
-                        <img src="https://tryhackme.com//img/badges/metasploit.svg" class="badge-image">
-                        <div class="badge-card-info">
-                            <div class="size-18 bold">Metasploitable</div>
-                            <p class="m-0 faded">Contains the knowledge to use Metasploit</p>
-                        </div>
-                       </div>
-                    </div><div class="noselect badge-card badge-achieved">
-                      <div class="d-flex align-items-center">
-                        <img src="https://tryhackme.com//img/badges/networkfundamentals.svg" class="badge-image">
-                        <div class="badge-card-info">
-                            <div class="size-18 bold">Networking Nerd</div>
-                            <p class="m-0 faded">Completing the 'Network Fundamentals' module</p>
-                        </div>
-                       </div>
-                    </div><div class="noselect badge-card badge-achieved">
-                      <div class="d-flex align-items-center">
-                        <img src="https://tryhackme.com//img/badges/howthewebworks.svg" class="badge-image">
-                        <div class="badge-card-info">
-                            <div class="size-18 bold">World Wide Web</div>
-                            <p class="m-0 faded">Completing the 'How The Web Works' module</p>
-                        </div>
-                       </div>
-                    </div><div class="noselect badge-card badge-achieved">
-                      <div class="d-flex align-items-center">
-                        <img src="https://tryhackme.com//img/badges/blue.svg" class="badge-image">
-                        <div class="badge-card-info">
-                            <div class="size-18 bold">Blue</div>
-                            <p class="m-0 faded">Hacking into Windows via EternalBlue</p>
-                        </div>
-                       </div>
-                    </div><div class="noselect badge-card badge-achieved">
-                      <div class="d-flex align-items-center">
-                        <img src="https://tryhackme.com//img/badges/owasptop10.svg" class="badge-image">
-                        <div class="badge-card-info">
-                            <div class="size-18 bold">OWASP Top 10</div>
-                            <p class="m-0 faded">Understanding every OWASP vulnerability</p>
-                        </div>
-                       </div>
-                    </div></div>
+<img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="200" height="200">
+<div class="size-18 bold">Pentesting Principles</div>
+<p class="m-0 faded">Completing the 'Introduction to Pentesting' module</p>
+
+<img src="https://tryhackme.com/img/badges/webbed.svg" width="200" height="200">
+<div class="size-18 bold">Webbed</div>
+<p class="m-0 faded">Completing the 'Introduction to Web Hacking' module</p>
+
+<img src="https://tryhackme.com/img/badges/introtowebsecurity.svg" width="200" height="200">
+<div class="size-18 bold">Intro to Web Hacking</div>
+<p class="m-0 faded">Understands how the world wide web works</p>
+
+<img src="https://tryhackme.com/img/badges/burpsuite.svg" width="200" height="200">
+<div class="size-18 bold">Burp'ed</div>
+<p class="m-0 faded">Completing the Burp Suite module</p>
+
+
+<img src="https://tryhackme.com/img/badges/streak7.svg" width="200" height="200">
+<div class="size-18 bold">7 Day Streak</div>
+<p class="m-0 faded">Achieving a 7 day hacking streak</p>
+                            
+<img src="https://tryhackme.com/img/badges/linux.svg" width="200" height="200">
+<div class="size-18 bold">cat linux.txt</div>
+<p class="m-0 faded">Being competent in Linux</p>
+                            
+<img src="https://tryhackme.com/img/badges/metasploit.svg" width="200" height="200">
+<div class="size-18 bold">Metasploitable</div>
+<p class="m-0 faded">Contains the knowledge to use Metasploit</p>
+
+                            
+<img src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="200" height="200">
+<div class="size-18 bold">Networking Nerd</div>
+<p class="m-0 faded">Completing the 'Network Fundamentals' module</p>
+                            
+<img src="https://tryhackme.com/img/badges/howthewebworks.svg" width="200" height="200">
+<div class="size-18 bold">World Wide Web</div>
+<p class="m-0 faded">Completing the 'How The Web Works' module</p>
+                            
+<img src="https://tryhackme.com/img/badges/blue.svg" width="200" height="200">
+<div class="size-18 bold">Blue</div>
+<p class="m-0 faded">Hacking into Windows via EternalBlue</p>
+                            
+<img src="https://tryhackme.com/img/badges/owasptop10.svg" class="badge-image" width="200" height="200">
+<div class="size-18 bold">OWASP Top 10</div>
+<p class="m-0 faded">Understanding every OWASP vulnerability</p>
 
 ## Write-Ups
 
